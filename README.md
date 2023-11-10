@@ -26,7 +26,11 @@ Problem statement:<br/>
 
 <h4> Details of how to run: </h4><br/>
 - clone the repo with <br/>
-```git clone git@github.com:pankaja0285/era_v1_session16.git <br/>```
+<pre>
+    <code>
+        git clone git@github.com:pankaja0285/era_v1_session16.git
+    </code>
+</pre>
 - click to open the S16_PL_Transformer_En_Fr.ipynb and proceed to run cell by cell<br/>
 - The tensorboard logs are displayed realtime upon running the notebook<br/>
 
