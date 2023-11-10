@@ -12,18 +12,18 @@ Problem statement:<br/>
 
 <h4> Folder structure</h4> <br/>
 |_ runs <br/>
-  |__ tmodel_150_tokens_bs_48_dff_1024 <br/>
-     |___ README.md <br/> 
+<pre>  </pre>|__ tmodel_150_tokens_bs_48_dff_1024 <br/>
+<pre>     </pre>|___ README.md <br/> 
 |_ transformer <br/>
-  |__ config.py <br/>
-  |__ dataset.py <br/>
-  |__ model.py <br/>
-  |__ PL_data_module.py <br/>
-  |__ PL_main.py <br/>
-  |__ PL_model.py <br/>
-  |__ train.py
+<pre>  </pre>|__ config.py <br/>
+<pre>  </pre>|__ dataset.py <br/>
+<pre>  </pre>|__ model.py <br/>
+<pre>  </pre>|__ PL_data_module.py <br/>
+<pre>  </pre>|__ PL_main.py <br/>
+<pre>  </pre>|__ PL_model.py <br/>
+<pre>  </pre>|__ train.py
 |_ weights <br/>
-  |__ README.md <br/>
+<pre>  </pre>|__ README.md <br/>
 |_ README.md <br/>
 |_ S16_PL_Transformer_En_Fr.ipynb <br/>
 
