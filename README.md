@@ -21,7 +21,7 @@ Problem statement:<br/>
 &nbsp;&nbsp;|__ PL_data_module.py <br/>
 &nbsp;&nbsp;|__ PL_main.py <br/>
 &nbsp;&nbsp;|__ PL_model.py <br/>
-&nbsp;&nbsp;|__ train.py
+&nbsp;&nbsp;|__ train.py <br/>
 |_ weights <br/>
 &nbsp;&nbsp;|__ README.md <br/>
 |_ README.md <br/>
