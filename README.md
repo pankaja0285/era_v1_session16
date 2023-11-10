@@ -12,6 +12,8 @@ Problem statement:<br/>
 
 <h4> Folder structure</h4> <br/>
 |_ runs <br/>
+  |__ tmodel_150_tokens_bs_48_dff_1024 <br/>
+     |___ README.md <br/> 
 |_ transformer <br/>
   |__ config.py <br/>
   |__ dataset.py <br/>
@@ -21,6 +23,7 @@ Problem statement:<br/>
   |__ PL_model.py <br/>
   |__ train.py
 |_ weights <br/>
+  |__ README.md <br/>
 |_ README.md <br/>
 |_ S16_PL_Transformer_En_Fr.ipynb <br/>
 
